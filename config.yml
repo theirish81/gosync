@@ -1,0 +1,6 @@
+server:
+    port: 9999
+    address: http://localhost
+fs:
+    root_dir: files/
+    password_file: passwd
